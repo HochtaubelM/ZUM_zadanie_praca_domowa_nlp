@@ -1,6 +1,6 @@
 # Praca domowa ZUM - NLP
 
-Do swojego projektu użyładm danych z Kaggle - Sentiment140 dataset with 1.6 million tweets
+Do swojego projektu użyłam danych z Kaggle - Sentiment140 dataset with 1.6 million tweets
 link do danych - https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download
 
 Jest to dataset do analizy sentymentu, zawiera 1 600 000 tweetów wyodrębnionych za pomocą twitter api. Tweety zostały opatrzone etykietami (0 = negatywne, 4 = pozytywne), natomiast dla lepszej czytelności zdecydowałam się zmienić na 0 = negatywne, 1 = pozytywne. Dane są w jednym pliku .csv, pierwotnie plik zawierał 6 kolumn, natomiast na potrzeby tego zadania korzystam jedynie z kolumn 'sentiment' i 'text'.
